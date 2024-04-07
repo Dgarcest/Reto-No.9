@@ -198,5 +198,9 @@ if __name__ == "__main__":
 
 ## 5. Crear cuenta en stackoverflow y adjuntar imagen en el repo
 
+[![stackoverflow1.png](https://i.postimg.cc/0ybyh5fZ/stackoverflow1.png)](https://postimg.cc/YvB7WHTm)
+
+[![stackoverflow2.png](https://i.postimg.cc/2SMSYp9Y/stackoverflow2.png)](https://postimg.cc/zywrwQ12)
+
 ## 6. Link de Linkedin
 https://www.linkedin.com/in/diego-garces-torres-07b614302/
