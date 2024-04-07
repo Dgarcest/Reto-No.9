@@ -195,3 +195,8 @@ if __name__ == "__main__":
        
        numero += 1
 ```
+
+## 5. Crear cuenta en stackoverflow y adjuntar imagen en el repo
+
+## 6. Link de Linkedin
+https://www.linkedin.com/in/diego-garces-torres-07b614302/
